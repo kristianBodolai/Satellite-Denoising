@@ -1,7 +1,7 @@
 # Link to the output file:
 https://drive.google.com/drive/folders/1XAa8-RZnJV8Weq2qpW1ET-0IulD36Q0k?usp=sharing
 
-It seems that matplotlib requires uint8 for the colormaps, so the pixel depth is lower, but I think the image quality is not bad, and you can see the transformations in the notebook.
+It seems that matplotlib requires uint8 for the colormaps, so the pixel depth is lower, but I think the image quality is good. You can also see on the main file (denoising.ipynb) the whole process.
 # Satellite-Denoising
 Repo containing a Denoising Technique for satellite images.
 In the script experiments.ipynb you will find a comparison between different methods, some of which are briefly explained. (I had to close all outputs because the file was too big).
